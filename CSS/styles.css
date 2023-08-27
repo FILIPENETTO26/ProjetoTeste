@@ -1,0 +1,15 @@
+    /* OBRIGATÓRIO ; */
+    h1 {
+        color: red;
+        background: black;
+    }
+
+    P {
+        color: blue;
+        font-size: 20px;
+    }
+
+    button {
+        background-color: green;
+        border-color: darkgreen;
+    }
